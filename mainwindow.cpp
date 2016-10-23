@@ -37,7 +37,7 @@ void MainWindow::on_commentLineBtn_clicked()
      int n = obj.getCommentLines();
      ui->commentLineValue->setText(QString::number(n));
 }
-
+//again
 void MainWindow::on_commentOutputLineBtn_clicked()
 {
     //количество строк выходного кода с комментариями
