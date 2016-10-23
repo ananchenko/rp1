@@ -30,7 +30,7 @@ void MainWindow::on_epmtyLineBtn_clicked()
       int n = obj.getEmptyLines();
       ui->emptyLineValue->setText(QString::number(n+1));
 }
-
+//one more hello
 void MainWindow::on_commentLineBtn_clicked()
 {
     //количество строк  с комментариями
