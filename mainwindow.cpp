@@ -14,7 +14,7 @@ MainWindow::~MainWindow()
 {
     delete ui;
 }
-
+//hello world Ananchenko
 void MainWindow::on_countLineBtn_clicked()
 {
     //количество строк кода
